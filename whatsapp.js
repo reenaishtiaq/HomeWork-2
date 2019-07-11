@@ -31,4 +31,4 @@ let messages = [
     msgOfAnooshy = "I'm busy now!",
     msgOfArslan = "Come back to home",
     msgOfUrooj = "There is no class today"
-]
+] 
